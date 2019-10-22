@@ -11,3 +11,4 @@ Una de las formas más sencillas para probar Kali Linux es utilizar una de las i
 
 Este formato de Kali Linux está preparado para usarse desde el primer momento y para su uso se suponen una serie de conocimientos previos, por lo que el sistema ya tiene preconfigurada una cuenta de superusuario (root) desde el que iniciar la sesión.
 
+![fdsjnfksn](https://fimgs.net/mdimg/perfume/375x500.275.jpg)
