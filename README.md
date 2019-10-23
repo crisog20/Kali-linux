@@ -7,5 +7,3 @@ Aquí trataremos los siguientes apartados:
 3. Herramientas de Kali-linux.
 4. Ejemplo 1:Herramienta1
 5. Ejemplo 2:Herramienta2
-## Referencias
-[Wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
